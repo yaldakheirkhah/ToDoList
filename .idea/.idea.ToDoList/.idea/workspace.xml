@@ -8,8 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ceb17ad0-121f-480d-8f25-f48da2aea675" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ToDoList/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/Home/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Views/Home/Index.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ToDoList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ToDoList/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +42,8 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/f27d39a2d85adc26345c3b743f9e46bc1311c81afc5f701d5fd68c86457e95/RouteOptions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/fd92d531e69cfee9ad15ac153686431152980f076ad77d74f358cc54cd8/MvcOptions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="mock://C:/Users/Yalda Kheirkhah/Documents/GitHub/ToDoList/Models/Task.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/Yalda Kheirkhah/Documents/GitHub/ToDoList/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/Yalda Kheirkhah/Documents/GitHub/ToDoList/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/Yalda Kheirkhah/Documents/GitHub/ToDoList/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -137,7 +138,7 @@
       <workItem from="1679920103509" duration="1864000" />
       <workItem from="1679923036750" duration="1570000" />
       <workItem from="1679924655491" duration="674000" />
-      <workItem from="1679981232467" duration="9897000" />
+      <workItem from="1679981232467" duration="14183000" />
     </task>
     <task id="LOCAL-00001" summary="project created from scratch">
       <created>1679923149917</created>
@@ -188,7 +189,49 @@
       <option name="project" value="LOCAL" />
       <updated>1680006255363</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="index.cshtml updated">
+      <created>1680006275870</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1680006275870</updated>
+    </task>
+    <task id="LOCAL-00009" summary="idea updated">
+      <created>1680006304869</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1680006304869</updated>
+    </task>
+    <task id="LOCAL-00010" summary="idea updated">
+      <created>1680006346332</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1680006346332</updated>
+    </task>
+    <task id="LOCAL-00011" summary="style added for cards">
+      <created>1680011161362</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1680011161362</updated>
+    </task>
+    <task id="LOCAL-00012" summary="ToDoList.csproj updated">
+      <created>1680011185318</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1680011185318</updated>
+    </task>
+    <task id="LOCAL-00013" summary="cards html updated">
+      <created>1680011201070</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1680011201070</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,6 +259,11 @@
     <MESSAGE value="controller added" />
     <MESSAGE value="wwwroot added" />
     <MESSAGE value="coping Index.cshtml to output directory" />
-    <option name="LAST_COMMIT_MESSAGE" value="coping Index.cshtml to output directory" />
+    <MESSAGE value="index.cshtml updated" />
+    <MESSAGE value="idea updated" />
+    <MESSAGE value="style added for cards" />
+    <MESSAGE value="ToDoList.csproj updated" />
+    <MESSAGE value="cards html updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="cards html updated" />
   </component>
 </project>
